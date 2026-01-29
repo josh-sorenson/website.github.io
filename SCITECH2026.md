@@ -2,7 +2,7 @@
 title: "Simulation of Hypersonic Conditions Over a Blunt Body Using a Hybrid Rocket with Nitrogen Plume Cooling"
 collection: publications
 category: conferences
-permalink: /publication/2026-01-08-Simulation
+permalink: /publication/SCITECH2026
 excerpt: 'This paper was presented at the AIAA SCITECH 2026 Forum. Future work on the same topic will support thesis development.'
 date: 2026-01-08
 venue: 'AIAA SCITECH Forum 2026'
