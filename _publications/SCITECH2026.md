@@ -6,7 +6,7 @@ permalink: /publication/SCITECH2026
 excerpt: 'This paper was presented at the AIAA SCITECH 2026 Forum. Future work on the same topic will support thesis development.'
 date: 2026-01-08
 venue: 'AIAA SCITECH Forum 2026'
-slidesurl: 'https://academicpages.github.io/files/sorenson2026simulationslides.pdf'
+slidesurl: 
 paperurl: 'https://academicpages.github.io/files/sorenson2026simulation.pdf'
 bibtexurl: 
 citation: 'Sorenson, J. R., Whitmore, S. A., Coen, J. S., Dowdy, J. T, and Thibaudeau, R. J., “Simulation of Hypersonic Conditions Over a Blunt Body Using a Hybrid Rocket with Nitrogen Plume Cooling,” AIAA SciTech 2026 Forum, 2026. https://doi.org/10.2514/6.2026-2859'
