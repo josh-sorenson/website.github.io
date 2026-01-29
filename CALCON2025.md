@@ -6,6 +6,7 @@ permalink: /publication/CALCON2025
 excerpt: 'This paper was written by students and the Utah State University Propulsion Research Lab to showcase some of the updates to legacy equipment and sensors.'
 date: 2025-06-10
 venue: '34th CALCON Technical Meeting'
+slidesurl: 'https://josh-sorenson.github.io/files/sorenson2025refinedslides.pdf'
 paperurl: 'https://josh-sorenson.github.io/files/sorenson2025refined.pdf'
 citation: 'Sorenson, J. R., Mecham, L. J., White, C. A., and Wilkey, A. T., “Refined Hybrid Rocket Static Fire Testing with Increased
 Performance and Precision,” Conference on Characterization and Radiometric Calibration for Remote Sensing (CALCON) 2025,
