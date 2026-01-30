@@ -12,7 +12,7 @@ Josh Sorenson is a Graduate student at Utah State University earning his Masters
 ## Research Interests
 - Hybrid rocket propulsion
 - Static fire testing
-- Data acquisition systems
+- Hypersonic gas generation
 
 ## Featured Projects
 Check out my work on [hybrid rocket testing](/portfolio/) and my recent [publications](/publications/).
