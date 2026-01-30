@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my full Resume (PDF)](/files/resume.pdf)
-
 ## Education
 
 **Master of Science, Aerospace Engineering**  
